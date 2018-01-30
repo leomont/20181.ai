@@ -2,6 +2,8 @@
 
 _Regístrate [aquí](https://goo.gl/forms/yHRFSYVXfCUlDpyY2)_
 
+[YouTube videos](https://www.youtube.com/watch?v=ZxJBwkDqB9E&list=PL8ytk70JVz1_SdCzC3c7rlPoEotq79DjL)
+
 ### Calificación
 40% Problemsets<br/>
 30% Quizes<br/>
