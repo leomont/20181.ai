@@ -26,7 +26,6 @@ La calificación del curso vendrá dada por los siguientes criterios con el mism
 
 ### Calendario y plazos
 
-
                    SESSION 1     SESSION 2     STUDENT DEADLINES
 W05 Ene29-Feb02    1.PYTHON      2.PANDAS
 W06 Feb05-Feb09    PSETS         3.STATS
