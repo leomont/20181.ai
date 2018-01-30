@@ -26,30 +26,31 @@ La calificación del curso vendrá dada por los siguientes criterios con el mism
 
 ### Calendario y plazos
 
-                   SESSION 1     SESSION 2     STUDENT DEADLINES
-W05 Ene29-Feb02    1.PYTHON      2.PANDAS
-W06 Feb05-Feb09    PSETS         3.STATS
-W07 Feb12-Feb16    4.BAYES       PSETS         Feb 18 PSETS 1 2
-W08 Feb19-Feb23    QUIZPREP      QUIZ      
-W09 Feb26-Mar02    PROJECT       PROJECT       Mar 04 PROJECT DATASET
-W10 Mar05-Mar09    5.ML INTRO    6.ML METHODS
-W11 Mar12-Mar16    7.NAIVE       PSETS
-W12 Mar19-Mar23    PROJECT       PROJECT
-W13 Mar26-Mar30    8.IMGINTRO    9.IMGCLASS    
-W14 Abr02-Abr06    PSETS         PSETS         Abr 01 PSETS 3 4 5 
-W15 Abr09-Abr13    QUIZPREP      QUIZ   
-W16 Abr16-Abr20    10.PLAN       PSETS
-W17 Abr23-Abr27    11.GA         PSETS
-W18 Abr30-May04    12.SA         PSETS         MAY 06 PSETS 7 8 9
-W19 May07-May11    QUIZPREP      QUIZ
-W20 May14-May18    PROJECT       PROJECT
-W21 May21-May25    SEMINAR       SEMINAR       MAY 27 PROJECT FINAL
+                       SESSION 1     SESSION 2     STUDENT DEADLINES
+
+    W05 Ene29-Feb02    1.PYTHON      2.PANDAS
+    W06 Feb05-Feb09    PSETS         3.STATS
+    W07 Feb12-Feb16    4.BAYES       PSETS         Feb 18 PSETS 1 2
+    W08 Feb19-Feb23    QUIZPREP      QUIZ      
+    W09 Feb26-Mar02    PROJECT       PROJECT       Mar 04 PROJECT DATASET
+    W10 Mar05-Mar09    5.ML INTRO    6.ML METHODS
+    W11 Mar12-Mar16    7.NAIVE       PSETS
+    W12 Mar19-Mar23    PROJECT       PROJECT
+    W13 Mar26-Mar30    8.IMGINTRO    9.IMGCLASS    
+    W14 Abr02-Abr06    PSETS         PSETS         Abr 01 PSETS 3 4 5 
+    W15 Abr09-Abr13    QUIZPREP      QUIZ   
+    W16 Abr16-Abr20    10.PLAN       PSETS
+    W17 Abr23-Abr27    11.GA         PSETS
+    W18 Abr30-May04    12.SA         PSETS         MAY 06 PSETS 7 8 9
+    W19 May07-May11    QUIZPREP      QUIZ
+    W20 May14-May18    PROJECT       PROJECT
+    W21 May21-May25    SEMINAR       SEMINAR       MAY 27 PROJECT FINAL
 
 
-Mar09 - Registro primera calificación
-Mar11 - Último día cancelación materias
-May28-Jun06 Evaluaciones finales
-Jun08 - Registro calificaciones finales
+    Mar09 - Registro primera calificación
+    Mar11 - Último día cancelación materias
+    May28-Jun06 Evaluaciones finales
+    Jun08 - Registro calificaciones finales
 
 
 
