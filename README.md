@@ -4,7 +4,7 @@ _Regístrate [aquí](https://goo.gl/forms/yHRFSYVXfCUlDpyY2)_. Algunos vídeos d
 
 ## Máquina Virtual
 
-Usaremos esta máquina virtual que tiene instalado un entorno Python Anaconda con Jupyter Notebooks disponibles en  [localhost:8008](http://localhost:8008) una vez que la máquina arranca.
+Usaremos esta máquina virtual que tiene instalado un entorno Python Anaconda con Jupyter Notebooks disponibles en  [localhost:8008/tree](http://localhost:8008/tree) una vez que la máquina arranca.
 
 **Observa la configuración de la máquina**
 
@@ -22,7 +22,7 @@ Usaremos esta máquina virtual que tiene instalado un entorno Python Anaconda co
     
 y añade `auto,nofail` a la linea con la definicin de `share` para que quede así
 
-    share                                     /home/user/share vboxsf uid=1000,rw,auto,nofail 0 1
+    share                                     /home/user/share vboxsf uid=1000,rw,auto,x-systemd.automount 0 1
 
 
 
