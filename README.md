@@ -2,7 +2,7 @@
 
 _Regístrate [aquí](https://goo.gl/forms/yHRFSYVXfCUlDpyY2)_. Algunos vídeos de clases en ediciones anteriores del curso están [disponibles en YouTube](https://www.youtube.com/watch?v=ZxJBwkDqB9E&list=PL8ytk70JVz1_SdCzC3c7rlPoEotq79DjL)
 
-### Máquina Virtual
+## Máquina Virtual
 
 Usaremos esta máquina virtual que tiene instalado un entorno Python Anaconda con Jupyter Notebooks disponibles en  [localhost:8008](http://localhost:8008) una vez que la máquina arranca.
 
@@ -26,12 +26,12 @@ y añade `auto,nofail` a la linea con la definicin de `share` para que quede as�
 
 
 
-### Calificación
+## Calificación
 40% Problemsets<br/>
 30% Quizes<br/>
 30% Online courses (MOOC)
 
-### Online Courses (MOOC)
+## Online Courses (MOOC)
 Habrás de realizar algún MOOC online que habrá de tratar un tecnológica y ha de cubrir aproximadamente 15 horas de esfuerzo, que se evaluarán según la definición y dinámica de cada caso. Puedes hacerlo en cualquier plataforma existente, como por ejemplo: [Coursera](www.coursera.org), [EDX](www.edx.org), [Udacity](www.udacity.org),  [MiriadaX](https://miriadax.net/), etc.
 
 Tendrs que hacer un informe de tu seguimiento del MOOC. La entrega ha de constar de:
@@ -48,7 +48,7 @@ La calificación del curso vendrá dada por los siguientes criterios con el mism
 - COMPLECIÓN 
 - CLARIDAD DEL REPORTE
 
-### Calendario y plazos
+## Calendario y plazos
 
                        SESSION 1     SESSION 2     STUDENT DEADLINES
 
@@ -86,10 +86,3 @@ La calificación del curso vendrá dada por los siguientes criterios con el mism
     
 [Calendario academico](https://www.uis.edu.co/webUIS/es/academia/calendariosAcademicos/2017/acAcad014-2017.pdf)
 
-## Información técnica
-
-La máquina virtual del curso tiene dos entornos Jupyter iPython:
-
-- [localhost:8008](http://localhost:8008) entorno Anaconda (machine learning)
-
-Servidor SSH en el puerto 2222 con user/user como usuario y pwd
