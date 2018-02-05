@@ -4,7 +4,7 @@ _Regístrate [aquí](https://goo.gl/forms/yHRFSYVXfCUlDpyY2)_. Algunos vídeos d
 
 ## Máquina Virtual
 
-Usaremos esta máquina virtual que tiene instalado un entorno Python Anaconda con Jupyter Notebooks disponibles en  [localhost:8008](http://localhost:8008) una vez que la máquina arranca.
+Usaremos esta máquina virtual que tiene instalado un entorno Python Anaconda con Jupyter Notebooks disponibles en  [localhost:8008/tree](http://localhost:8008/tree) una vez que la máquina arranca.
 
 **Observa la configuración de la máquina**
 
