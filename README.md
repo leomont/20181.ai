@@ -1,6 +1,6 @@
 # Inteligencia Artificial I 2018-1
 
-_Regístrate [aquí](https://goo.gl/forms/yHRFSYVXfCUlDpyY2)_. Algunos vídeos de clases en ediciones anteriores del curso están [disponible sen YouTube](https://www.youtube.com/watch?v=ZxJBwkDqB9E&list=PL8ytk70JVz1_SdCzC3c7rlPoEotq79DjL)
+_Regístrate [aquí](https://goo.gl/forms/yHRFSYVXfCUlDpyY2)_. Algunos vídeos de clases en ediciones anteriores del curso están [disponibles en YouTube](https://www.youtube.com/watch?v=ZxJBwkDqB9E&list=PL8ytk70JVz1_SdCzC3c7rlPoEotq79DjL)
 
 ### Máquina Virtual
 
