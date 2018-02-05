@@ -22,7 +22,7 @@ Usaremos esta máquina virtual que tiene instalado un entorno Python Anaconda co
     
 y añade `auto,nofail` a la linea con la definicin de `share` para que quede así
 
-    share                                     /home/user/share vboxsf uid=1000,rw,auto,nofail 0 1
+    share                                     /home/user/share vboxsf uid=1000,rw,auto,x-systemd.automount 0 1
 
 
 
