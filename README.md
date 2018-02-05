@@ -1,8 +1,30 @@
 # Inteligencia Artificial I 2018-1
 
-_Regístrate [aquí](https://goo.gl/forms/yHRFSYVXfCUlDpyY2)_
+_Regístrate [aquí](https://goo.gl/forms/yHRFSYVXfCUlDpyY2)_. Algunos vídeos de clases en ediciones anteriores del curso están [disponible sen YouTube](https://www.youtube.com/watch?v=ZxJBwkDqB9E&list=PL8ytk70JVz1_SdCzC3c7rlPoEotq79DjL)
 
-[YouTube videos](https://www.youtube.com/watch?v=ZxJBwkDqB9E&list=PL8ytk70JVz1_SdCzC3c7rlPoEotq79DjL)
+### Máquina Virtual
+
+Usaremos esta máquina virtual que tiene instalado un entorno Python Anaconda con Jupyter Notebooks disponibles en  [localhost:8008](http://localhost:8008) una vez que la máquina arranca.
+
+**Observa la configuración de la máquina**
+
+- Si tu máquina física tiene al menos 4GB de memoria configúra la máquina virtual **con 2GB de memoria**
+- Tiene un servidor SSH en el puerto 2222 con user/user como usuario y pwd
+- Si compartes una carpeta entre la física y virtual asegúrate que **el nombre cone el que se comparte** sea `share` (aunque el nombre de la carpeta en la máquina física puede ser distinto)
+
+**Para montar la carpeta compartida** ejecuta lo siguiente en un terminal y la carpeta aparecerá en /home/user/share:
+
+    sudo mount share
+
+**Si la máquina arranca en modo mantenimiento**, edita el fichero `/etc/fstab` como `root`:
+
+    sudo nano /etc/fstab
+    
+y añade `auto,nofail` a la linea con la definicin de `share` para que quede así
+
+    share                                     /home/user/share vboxsf uid=1000,rw,auto,nofail 0 1
+
+
 
 ### Calificación
 40% Problemsets<br/>
@@ -10,7 +32,7 @@ _Regístrate [aquí](https://goo.gl/forms/yHRFSYVXfCUlDpyY2)_
 30% Online courses (MOOC)
 
 ### Online Courses (MOOC)
-Habrs de realizar algn MOOC online que habrá de tratar un tecnológica y ha de cubrir aproximadamente 15 horas de esfuerzo, que se evaluarán según la definición y dinámica de cada caso. Puedes hacerlo en cualquier plataforma existente, como por ejemplo: [Coursera](www.coursera.org), [EDX](www.edx.org), [Udacity](www.udacity.org),  [MiriadaX](https://miriadax.net/), etc.
+Habrás de realizar algún MOOC online que habrá de tratar un tecnológica y ha de cubrir aproximadamente 15 horas de esfuerzo, que se evaluarán según la definición y dinámica de cada caso. Puedes hacerlo en cualquier plataforma existente, como por ejemplo: [Coursera](www.coursera.org), [EDX](www.edx.org), [Udacity](www.udacity.org),  [MiriadaX](https://miriadax.net/), etc.
 
 Tendrs que hacer un informe de tu seguimiento del MOOC. La entrega ha de constar de:
 
