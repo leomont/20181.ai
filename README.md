@@ -53,10 +53,10 @@ La calificación del curso vendrá dada por los siguientes criterios con el mism
                        SESSION 1     SESSION 2     STUDENT DEADLINES
 
     W05 Ene29-Feb02    1.PYTHON      2.PANDAS
-    W06 Feb05-Feb09    PSETS         3.STATS
-    W07 Feb12-Feb16    4.BAYES       PSETS         Feb 18 PSETS 1 2
-    W08 Feb19-Feb23    QUIZPREP      QUIZ      
-    W09 Feb26-Mar02    PROJECT       PROJECT       Mar 04 PROJECT DATASET
+    W06 Feb05-Feb09    PSETS         PSETS
+    W07 Feb12-Feb16    3.STATS       4.BAYES       
+    W08 Feb19-Feb23    PSETS         PSETS         Feb 25 PSETS 1 2
+    W09 Feb26-Mar02    QUIZPREP      QUIZ          Mar 04 MOOC DATASET
     W10 Mar05-Mar09    5.ML INTRO    6.ML METHODS
     W11 Mar12-Mar16    7.NAIVE       PSETS
     W12 Mar19-Mar23    PROJECT       PROJECT
@@ -68,7 +68,7 @@ La calificación del curso vendrá dada por los siguientes criterios con el mism
     W18 Abr30-May04    12.SA         PSETS         MAY 06 PSETS 7 8 9
     W19 May07-May11    QUIZPREP      QUIZ
     W20 May14-May18    PROJECT       PROJECT
-    W21 May21-May25    SEMINAR       SEMINAR       MAY 27 PROJECT FINAL
+    W21 May21-May25    SEMINAR       SEMINAR       MAY 27 MOOC FINAL
 
 
     Mar09 - Registro primera calificación
