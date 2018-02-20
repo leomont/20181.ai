@@ -79,10 +79,6 @@ La calificación del curso vendrá dada por los siguientes criterios con el mism
 
 
 **CUALQUIER ENTREGA FUERA DE PLAZO SERÁ PENALIZADA CON UN 50%**
-
-    Sep 29    Entrega primera calificacion
-    Dic 11-19 Evaluaciones finales
-    Dic 19    Entrega de notas
     
 [Calendario academico](https://www.uis.edu.co/webUIS/es/academia/calendariosAcademicos/2017/acAcad014-2017.pdf)
 
